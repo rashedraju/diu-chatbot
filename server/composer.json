@@ -1,0 +1,14 @@
+{
+    "name": "rashed/diu-chatbot",
+    "authors": [
+        {
+            "name": "rashed raju",
+            "email": "rashedraju.cs@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.2",
+        "firebase/php-jwt": "^5.4",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
